@@ -1,0 +1,20 @@
+galaxy_info:
+  author: Ilya Barsukov
+  description: Ansible module to manage BTRFS subvolume
+  company: Selectel LLC
+
+  license: GPLv3 
+
+  min_ansible_version: 2.1
+
+  platforms:
+  - name: GenericLinux
+    versions:
+    - all
+
+  galaxy_tags:
+    - btrfs
+    - filesystem
+    - system
+
+dependencies: []
